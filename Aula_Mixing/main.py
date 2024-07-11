@@ -1,2 +1,4 @@
-from log import Log
-wa = Log()
+from log import LogFile, LogPrint
+
+
+p1 = Logr
